@@ -14,4 +14,4 @@
 
  # schéma
 
-        ![schéma électrique](\schéma.png)
+        ![schéma électrique](/schéma.png)
