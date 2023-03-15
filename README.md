@@ -24,3 +24,5 @@
 - 4: heure affichage
 - 9: filtration manuelle activé
 - 0: filtration manuelle désactivé
+- C: écran du haut
+- D: écran du bas
