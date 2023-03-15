@@ -1,6 +1,6 @@
 # filtration piscine
  
- Voici mon projet arduino qui permet de gérer automatiquement la filtration de la piscine.
+ Voici mon projet arduino qui permet de gérer automatiquement le temps de filtration d'une piscine.
 
  # carte utilisée
 
