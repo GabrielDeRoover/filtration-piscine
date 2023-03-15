@@ -233,5 +233,4 @@ void loop()
        if(HOUR1 <= 0 && MIN1 <=0){digitalWrite(12, LOW);}
    }
  }   
-
 }
