@@ -14,4 +14,4 @@
 
  # schéma
 
-        ![schéma électrique](/schéma.png)
+        ![schéma électrique](/filtration-piscine/sch%C3%A9ma.png)
