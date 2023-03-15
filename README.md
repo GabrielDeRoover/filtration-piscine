@@ -15,3 +15,12 @@
  # schéma
 
   ![schéma électrique](/schema.png)
+
+# fonctionalité touches
+
+- 1: temps de filtration restant
+- 2: filtration manuelle
+- 3: affichage de la température
+- 4: heure affichage
+- 9: filtration manuelle activé
+- 0: filtration manuelle désactivé
