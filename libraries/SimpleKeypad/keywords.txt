@@ -1,0 +1,6 @@
+# data types
+SimpleKeypad	KEYWORD1
+
+# methods
+getKey	KEYWORD2
+scan	KEYWORD2
